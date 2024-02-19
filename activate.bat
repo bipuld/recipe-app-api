@@ -1,0 +1,1 @@
+E:\coding\python\django\rest-app-api\venv\Scripts\activate.bat
